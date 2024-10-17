@@ -146,10 +146,10 @@ jobs:
             docker images
             echo "image: $image, new_image: $new_image"
             # TEST
-            # echo "docker tag $image $new_image"
-            # docker tag $image $new_image
-            # echo "docker push $new_image"
-            # docker push $new_image
+            echo "docker tag $image $new_image"
+            docker tag $image $new_image
+            echo "docker push $new_image"
+            docker push $new_image
             echo "开始清理磁盘空间"
             echo "=============================================================================="
             df -hT
