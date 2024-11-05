@@ -1,1 +1,1 @@
-caddy:2-alpine
+nginx:1.18
