@@ -1,1 +1,1 @@
-sorintlab/stolon:v0.16.0-pg10
+etcd-amd64:2.3.7
