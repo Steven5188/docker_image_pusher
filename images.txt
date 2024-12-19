@@ -1,1 +1,1 @@
-k8s.gcr.io/etcd-amd64:2.3.7
+rancher/local-path-provisioner:v0.0.30
