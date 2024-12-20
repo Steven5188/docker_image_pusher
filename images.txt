@@ -1,5 +1,2 @@
-bitnami/kafka:3.6.1-debian-11-r0
-bitnami/kubectl:1.29.0-debian-11-r0
-bitnami/os-shell:11-debian-11-r92
-bitnami/kafka-exporter:1.7.0-debian-11-r134
-bitnami/jmx-exporter:0.20.0-debian-11-r2
+zookeeper:3.8
+kafka:3.1.0
