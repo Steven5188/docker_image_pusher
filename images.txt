@@ -1,1 +1,1 @@
-golang:1.23.3
+curlimages/curl:8.11.0
