@@ -1,1 +1,1 @@
-mzz2017/v2raya:latest
+grafana/grafana:11.5.1
