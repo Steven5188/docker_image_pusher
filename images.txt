@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.6-local
+docker.n8n.io/n8nio/n8n:latest
