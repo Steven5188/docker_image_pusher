@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+infiniflow/ragflow_deps:latest
