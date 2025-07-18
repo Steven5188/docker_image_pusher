@@ -1,1 +1,1 @@
-ghcr.io/cinnamon/kotaemon:main-ollama
+natsio/prometheus-nats-exporter:0.8.0
