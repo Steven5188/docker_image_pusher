@@ -1,2 +1,2 @@
-quay.io/argoproj/workflow-controller:v3.7.0
-quay.io/argoproj/argocli:v3.7.0
+ghcr.io/flannel-io/flannel-cni-plugin:v1.7.1-flannel1
+ghcr.io/flannel-io/flannel:v0.27.2
