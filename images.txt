@@ -1,1 +1,2 @@
-python:3.10-slim
+quay.io/argoproj/workflow-controller:v3.7.0
+quay.io/argoproj/argocli:v3.7.0
