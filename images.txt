@@ -1,1 +1,1 @@
-quay.io/argoproj/argoexec:v3.7.0
+rancher/local-path-provisioner:v0.0.32
