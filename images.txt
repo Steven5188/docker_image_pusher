@@ -1,1 +1,1 @@
-nicolaka/netshoot:latest
+golang:1.23.3-alpine
