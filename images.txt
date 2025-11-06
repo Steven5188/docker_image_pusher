@@ -1,1 +1,1 @@
-docker/whalesay:latest
+node:18-alpine
