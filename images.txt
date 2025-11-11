@@ -1,2 +1,2 @@
-quay.io/minio/minio：RELEASE.2023-02-10T18-48-39Z
+quay.io/minio/minio:RELEASE.2023-02-10T18-48-39Z
 quay.io/minio/mc:RELEASE.2023-01-28T20-29-38Z
