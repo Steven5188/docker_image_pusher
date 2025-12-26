@@ -1,1 +1,2 @@
---platform linux/arm64 curlimages/curl:8.11.0
+# test
+--platform linux/arm64 python:3.10-slim
