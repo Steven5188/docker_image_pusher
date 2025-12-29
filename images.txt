@@ -1,5 +1,2 @@
 # test
---platform linux/arm64 quay.io/argoproj/workflow-controller:v3.7.0
---platform linux/arm64 quay.io/argoproj/argoexec:v3.7.0
---platform linux/arm64 quay.io/argoproj/argocli:v3.7.0
-
+--platform linux/arm64 busybox:latest
