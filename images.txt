@@ -1,2 +1,6 @@
 # test
---platform linux/arm64 busybox:latest
+# The script for pulling image does not resolve the note.
+# pull image with specified arch
+# --platform linux/arm64 busybox:latest
+
+hashicorp/http-echo:1.0
