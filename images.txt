@@ -3,4 +3,4 @@
 # pull image with specified arch
 # --platform linux/arm64 busybox:latest
 
-docker.io/istio/proxyv2:1.28.1
+ghcr.io/llm-d/llm-d-inference-scheduler:v0.5.0
