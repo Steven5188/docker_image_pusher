@@ -3,8 +3,4 @@
 # pull image with specified arch
 # --platform linux/arm64 busybox:latest
 
-infiniflow/ragflow:v0.24.0
-elasticsearch:8.11.3
-mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
