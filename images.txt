@@ -4,4 +4,7 @@
 # --platform linux/arm64 busybox:latest
 
 # quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-kindest/node:v1.32.0
+# kindest/node:v1.32.0
+
+docker.io/istio/pilot:1.28.1
+docker.io/grafana/grafana:12.4.1
