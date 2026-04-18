@@ -3,4 +3,5 @@
 # pull image with specified arch
 # --platform linux/arm64 busybox:latest
 
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+# quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+kindest/node:v1.32.0
