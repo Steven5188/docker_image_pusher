@@ -6,4 +6,5 @@
 # quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 # kindest/node:v1.32.0
 
-docker.io/istio/proxyv2:1.28.1
+# docker.io/istio/proxyv2:1.28.1
+ghcr.io/llm-d/llm-d-inference-scheduler:v0.5.0
